@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+    background-color: darkblue;
+}
+
+.pro {
+text-align: left;
+font-size: 30px;
+background-image: linear-gradient( navy, white);
+border-radius: 10px;
+}
+
+.pro:hover {
+background-color: blue;
+border-radius: 3px;
+}
+
+.product {
+    background-color: navy;
+    border-radius: 10px;
+    margin-top: 90px;
+    text-align: center;
+}
+
+.baby {
+    background-color: white;
+    border-radius: 5px;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+    margin-top: 40px;
+    position: relative;
+    top: 10px;
+}
+
+.white {
+
+font-size: 30px;
+    color: white;
+    padding-bottom: 10px;
+}
+
+.rewq1 {
+
+
+    margin-top: 200px;
+}
+
+
+.trpo {
+    background-color: white;
+border-radius: 5px;
+    color: white;
+    margin-top: 160px;
+    text-align: center;
+}
