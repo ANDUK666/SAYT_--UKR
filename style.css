@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-color: whitesmoke;
+}
+
+.y3 {
+border-radius: 10px;
+border: 2px solid blue;
+
+}
+
+h1 {
+color: darkblue;
+}
+
+.rewq {
+     color: navy;
+}
+
+.rewq1{
+margin-top: 100px;
+}
+
+.rewq2 {
+
+    border-bottom: 10px solid darkcyan;
+    margin-bottom: 50px;
+    border-radius: 5px;
+}
+
+.product {
+border: 2px solid rgb(201, 201, 201);
+}
+
+.form {
+    text-align: right;
+
+}
+
+.trpo {
+    background-color: navy;
+border-radius: 5px;
+    color: navy;
+    margin-top: 140px;
+    text-align: center;
+}
