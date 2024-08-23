@@ -1,0 +1,144 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(255, 254, 254, 0.925);
+}
+
+.bot {
+left: 0px ;
+margin-top: 90px;
+display: inline-block;
+}
+
+.yust {
+text-align: center;
+display: inline-block;
+}
+
+.test {
+    text-align: center;
+    color: navy;
+}
+
+.rest {
+
+text-align: center;
+}
+
+.bobuk {
+text-align: center;
+
+}
+
+.yusp {
+text-align: center;
+color: navy;
+}
+
+.going {
+margin-top: 40px;
+background-color: lightgrey;
+ border-radius: 5px;
+}
+
+.diven {
+    background-color: lavender;
+margin-top: 50px;
+border-radius: 1px;
+}
+
+.fot {
+background-color: white;
+margin-right: 30px;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+h1 {
+color: navy;
+    text-align: center;
+}
+
+.fot:hover {
+    color: navy;
+    background-color: rgba(3, 41, 255, 0.418);
+    font-family: 5px;
+    border-radius: 5px;
+}
+
+h2 {
+    border: 3px solid navy;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+.bomba {
+
+padding-top: 6px;
+padding-bottom: 30px;
+    background-color: rgb(202, 202, 202);
+}
+
+.contenct {
+color: rgb(7, 2, 2);
+    background-color: white;
+    border-right: 200px solid rgb(202, 202, 202);
+    border-left: 5px solid rgb(202, 202, 202);
+
+}
+
+.pyxka {
+    color: rgb(66, 0, 247);
+    text-align: center;
+    font-size: 40px;
+}
+
+.bybl {
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.cymo4ka{
+text-align: center;
+margin-top: 100px;
+color: rgb(255, 253, 253);
+font-size: 30px;
+font-family: 20px;
+text-decoration: none;
+box-shadow: 3px 5px 00 orange;
+border-radius: 10px;
+padding: 10px;
+background-color: navy;
+
+}
+
+
+.rewq1 {
+
+
+    margin-top: 200px;
+}
+
+
+.trpo {
+    background-color: white;
+border-radius: 5px;
+    color: white;
+    margin-top: 160px;
+    text-align: center;
+}
+
+.cymo4ka:hover {
+text-align: center;
+margin-top: 100px;
+color: rgb(0, 0, 0);
+font-size: 30px;
+font-family: 20px;
+text-decoration: none;
+box-shadow: 3px 5px 00 navy;
+border-radius: 10px;
+padding: 10px;
+background-color: orange;
+}
